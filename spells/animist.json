@@ -2,7 +2,7 @@
   {
     "id": "create_rune_animist",
     "type": "SPELL",
-    "copy-from": "create_rune_animist"
+    "copy-from": "create_rune_animist",
     "min_damage": 1,
     "max_damage": 6,
     "damage_increment": 0.2"

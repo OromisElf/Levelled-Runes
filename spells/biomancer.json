@@ -2,7 +2,7 @@
   {
     "id": "create_rune_biomancer",
     "type": "SPELL",
-    "copy-from": "create_rune_biomancer"
+    "copy-from": "create_rune_biomancer",
     "min_damage": 1,
     "max_damage": 6,
     "damage_increment": 0.2
