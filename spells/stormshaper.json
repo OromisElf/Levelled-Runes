@@ -1,0 +1,12 @@
+[
+  {
+    "id": "create_rune_stormshaper",
+    "type": "SPELL",
+    "copy-from": "create_rune_stormshaper",
+    "min_damage": 1,
+    "max_damage": 6,
+    "damage_increment": 0.2
+    "max_level": 30,
+    "flags": [ "PERMANENT_ALL_LEVELS", "NO_LEGS", "CONCENTRATE" ]
+  }
+]
